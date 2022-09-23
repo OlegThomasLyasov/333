@@ -7,8 +7,9 @@
 #Решение
 N=int(input('Введите интересующее число '))
 count=1
-degree=1
-while count<N:
-    count*50=2
+degree=0
+while (count*2)<N:
+    count*=2
     degree+=1
-print('Максимальная степень ='+ str(degree))
+print('Максимальная степень='+ str(degree))
+print("Показатель степени="+ str(count))
