@@ -20,3 +20,5 @@
 ## Использование HTML тегов
 ### **Я пошел <br> гулять**
 
+#как-то так
+[![песель]( https://sun9-5.userapi.com/c824409/v824409362/167766/ppAnwt7WVXY.jpg)](https://youtu.be/RkEEKg7kEfE)
