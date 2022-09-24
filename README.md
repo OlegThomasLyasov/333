@@ -23,3 +23,5 @@
 # Leg Day
 
 ## _**First training**_
+![work hard](https://www.insbright.com/wp-content/uploads/163/hard-work-motivational-quotes.jpg)
+
