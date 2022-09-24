@@ -25,3 +25,7 @@
 ## _**First training**_
 ![work hard](https://www.insbright.com/wp-content/uploads/163/hard-work-motivational-quotes.jpg)
 
+* Barbell Squat (4 sets, 6-10 reps)
+* Hip Thrust. (4 sets of 8-12 reps)
+* Weighted Walking Lunge. (3 sets 10-14 reps per side)
+* Lying Leg Curls. (3 sets, 8-12 reps)
