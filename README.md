@@ -20,3 +20,7 @@
 ## Использование HTML тегов
 ### **Я пошел <br> гулять**
 
+---
+# Домашнее задание
+
+[![video](https://i.ytimg.com/vi/EHlIIZ5Rlso/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyJQjDdTCZ73KR2HnqZSetJYaXMw)](https://www.youtube.com/watch?v=EHlIIZ5Rlso)
