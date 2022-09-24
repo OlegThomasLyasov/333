@@ -9,9 +9,8 @@
 люди с одинаковым ростом, таким же, как у Пети, то он должен встать после них."""
 
 #Решение
-heights=[int(i) for i in input("Введите невозрастающую последовательность натуральных
-чисел").split()]
-height=int(input("Введите рост Пети"))
+heights=[int(i) for i in input("Введите невозрастающую последовательность натуральных чисел ").split()]
+height=int(input("Введите рост Пети "))
 i=0
 while heights[i]>=height and i<len(heights):
      if i==len(heights)-1:
