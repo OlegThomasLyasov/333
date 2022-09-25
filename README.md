@@ -1,22 +1,22 @@
-# My project
+# Мой проект
 ## Список эмоций
 * злость
-* любовь :kissing_heart:
-* радость :smiley:
-* гнев :persevere:
+* любовь
+* радость
+* гнев
 * счастье
 * умиротворение
 * энтузиазм
 * восхищение
-* мотивированность :grinning:
+* мотивированность
 
+![Картинка](https://avatars.mds.yandex.net/i?id=d4b2857b69f097076fcf8c0e49f0fc40-5463607-images-thumbs&n=13)
 
-![картинка](https://berez.org/uploads/posts/2020-03/1584418352_s1200.jpg)
-
-# Видео
-[![спокойная музыка](https://www.shkolazhizni.ru/img/content/i187/187867_or.jpg)](https://www.youtube.com/watch?v=S7U8ExhCK50)
+## Видео
+[![Спокойная музыка](https://avatars.mds.yandex.net/i?id=5e56a3b22d899620442a31b138c68a34-2418036-images-thumbs&n=13)](https://www.youtube.com/watch?v=kUhWprE6nF8)
 
 ---
-## Использование HTML тегов
-### **Я пошел <br> гулять**
+### Использование HTML тэгов
+### ***Я пошёл <br> гулять!***
 
+## Очень *серьёзный* проект!
