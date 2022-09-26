@@ -19,4 +19,10 @@
 ---
 ## Использование HTML тегов
 ### **Я пошел <br> гулять**
+<BR>
+<br>
+
+Семинары - огонь, спасибо!
+
+[![огонь](https://avatars.mds.yandex.net/i?id=0112d6d1dab6e9aa0367185f4fc4b0d5-5232923-images-thumbs&n=13)](https://www.youtube.com/watch?v=sWp8kQe84T8)
 
