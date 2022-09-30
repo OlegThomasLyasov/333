@@ -1,6 +1,6 @@
 # My project
 ## Таблица эмоций
-| Название | Смайл |
+| Название | Смайл | 
 |---|---|
 |злость|:rage:|
 |любовь|:kissing_heart:|
@@ -13,7 +13,7 @@
 |мотивированность|:smiling_imp:|
 
 
-![картинка](https://berez.org/uploads/posts/2020-03/1584418352_s1200.jpg)
+![картинка](https://img.freepik.com/premium-vector/mood-rating-scale-level-emoji-set-indicator-emoticon-ranging-good-bad-negative-neutral-positive_596736-97.jpg)
 
 # Видео
 [![спокойная музыка](https://www.shkolazhizni.ru/img/content/i187/187867_or.jpg)](https://www.youtube.com/watch?v=S7U8ExhCK50)
