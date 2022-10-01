@@ -20,3 +20,11 @@
 ## Использование HTML тегов
 ### **Я пошел <br> гулять**
 
+just some changes to commit
+
+just some picture ![picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGrESCMkVUvLxa0JZO99Ecw8Yl9rjvD823w2Fst7efp2OtwVOdonKEuxTK0p8C624RXk&usqp=CAU)
+
+Снежана Яковкина geekbrains
+---
+Срок сдачи вышел однако пропускать такую тему было бы глупо, потому и сделала
+---
