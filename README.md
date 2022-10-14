@@ -4,7 +4,7 @@
 * любовь :kissing_heart:
 * радость :smiley:
 * гнев :persevere:
-* счастье
+* счастье :smile:
 * умиротворение :relieved:
 * поддразнивание :stuck_out_tongue_winking_eye: 
 * удивление :astonished:
