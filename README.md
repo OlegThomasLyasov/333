@@ -5,18 +5,21 @@
 * радость :smiley:
 * гнев :persevere:
 * счастье
-* умиротворение
-* энтузиазм
-* восхищение
+* ошеломлённый :astonished:
+* смущение :blush:
+* удивление :open_mouth:
 * мотивированность :grinning:
 
 
-![картинка](https://berez.org/uploads/posts/2020-03/1584418352_s1200.jpg)
+![осень пришла](https://proprikol.ru/wp-content/uploads/2019/08/kartinki-krasivaya-osen-3.jpg)
 
-# Видео
+<br>
+
+# Видео для релакса
 [![спокойная музыка](https://www.shkolazhizni.ru/img/content/i187/187867_or.jpg)](https://www.youtube.com/watch?v=S7U8ExhCK50)
 
 ---
-## Использование HTML тегов
+## Использование <b> HTML тегов
 ### **Я пошел <br> гулять**
+
 
