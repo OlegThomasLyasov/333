@@ -28,3 +28,8 @@ _________________________________
 ![картинка](https://media.2x2tv.ru/content/images/size/w1440h1080/2021/03/190305_Fiat_Concept_Centoventi_12.0-101.jpg)
 
 *Надо догонять!*
+
+__________________________
+
+![картинка](https://gx2invest.ru/wp-content/uploads/2020/01/image_2020_01_29t13_18_20_796z-e1580304286474.png)
+
